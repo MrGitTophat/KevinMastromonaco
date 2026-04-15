@@ -1,16 +1,13 @@
-## Hi there 👋
+ ## Hi, I'm Kevin Mastromonaco 
 
-<!--
-**MrGitTophat/MrGitTophat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Game Programming / student 
+- Currently learning: Object Oriented Programming 
+- Reach me: [2572567@johnabbottcollege.net](malito:2572567@johnabbottcollege.net)  / [LinkedIn] (https://www.linkedin.com/in/kevin-mastromonaco-749a8a387/)
 
-Here are some ideas to get you started:
+## ⚙  My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# • Powershell • JavaScript • Lua • C++
+
+## My Favorite Tools 
+
+VSCode • GitHub
