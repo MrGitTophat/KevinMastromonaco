@@ -4,9 +4,9 @@
 
 implement `index.html` 
 
-## Designs 
+## Design 
 
-![target layout](./assets/images/spec.png) 
+![target layout](../../assets/images/spec.png) 
 
 ## Work
 
