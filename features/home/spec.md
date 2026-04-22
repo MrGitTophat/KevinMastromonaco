@@ -22,3 +22,4 @@ implement `index.html`
 
 - "Done" will look like a basic, simple markdown page that showcases various skills and projects that I have done.
 - CV-esque oriented design.
+- Is displayed well across all devices.
