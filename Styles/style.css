@@ -14,8 +14,12 @@ header {
 }
 
 img {
-  width: 30%;
-  height: 30%;
+  width: 80vw;
+  border: 1px solid black;
+}
+
+.MeImage {
+  width: 25vw;
   border: 1px solid black;
 }
 
@@ -31,12 +35,7 @@ img {
   }
   
   img {
-    width: 10rem;
-    height: 7rem;
-  }
-
-  .MeImage {
-    width: 8rem;
-    height: 10rem;
+    width: 60vw;
+    margin: 0.3rem;
   }
 }
