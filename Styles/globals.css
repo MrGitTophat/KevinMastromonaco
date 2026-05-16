@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "SmoochSans";
+    src: url("../assets/fonts/SmoochSans-VariableFont_wght.ttf");
+}
+
+html{
+    font-family: "SmoochSans", 'SmoochSans', sans-serif, serif;
+}
