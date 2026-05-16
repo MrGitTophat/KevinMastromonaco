@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kevin Mastromonaco</title>
+        <link rel="stylesheet" href="../Styles/globals.css" />
+        <link rel="stylesheet" href="../Styles/style.css" />
+    </head>
+    <header>
+        <h2><a href="../index.html">Home</a></h2>
+        <h2 class="project"><a href="./project-MenuSystem.html">Project 1</a></h2>
+        <h2 class="project"><a href="./project-MineMaze.html">Project 2</a></h2>
+    </header>
+    <body>
+        <h1>Mine maze</h1>
+        <p>The goal of this project was to utlize all of the knowledeg that I gained during the first semester to create a functioning game within the console app.</p>
+        <p>From while loops, to functions, to console background color, we had to incorporate as many elements as possible
+        and include a movement system that would allow for the cursor position to go up, down, left, or right. The main focus was to implement the movement system, 
+        get random element, and to change the dusplayed color of certain characters. I began to brainstorm several ideas,
+        and went with something I thought would be interesting to make.</p>
+        <P>My idea for the Game Project was to make something similair to the randomly generating mines from Minesweeper,
+        and make the player navigate around them to collect an object and get the highest score possible.
+        I named my project Mine Maze, due to the nature of how the game was played.</P>
+        <p>Below is the main menu when running the code:</p>
+        <img src="../assets/images/MineMazeMenu.png" alt="A menu display when initally running the program, informaing the user what each character emans and what their goal is."/>
+        <p>To run the game, I utilized a switch statement between the intro screen and the game running.
+        <p>Once the user presses enter, the game generates a random layout for the mines for the user to naviaget and colelct the green dollar signs.
+        If the player losses any health, they can pick up the blue plus signs to get more health, as described in the intro screen.</p>
+        <img src="../assets/images/MMRound.png" alt="A group of randomly generated xs are displayed on the screen."/>
+        <p>After picking up a coin, a yellow circle would move randomly to "attack" the player.</p>
+        <img src="../assets/images/MMCoin.png" alt="The same image previously, but with an added yellow 0 near the middle left."/>
+        <p>Once the player runs out of lives, the game displays a Game Over screen with some stats.</p>
+        <img src="../assets/images/MMEnd.png" alt="A Game Over screen is displayed with the score, moves and press enter to try again being displayed on seperate lines."/>
+        <h2>What I learned</h2>
+        <p>Overall, this project helped me solidify what I have learnt about programming and taught me how random generations worked, as well as how to get 2D collisions to function properly. Figuring out how randoms worked and that you could configure borders to a console app window was also very interesting.</p>
+    </body>
+</html>
